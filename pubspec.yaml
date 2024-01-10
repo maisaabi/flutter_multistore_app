@@ -48,6 +48,7 @@ dependencies:
   fluttertoast: ^8.2.4
   awesome_dialog: ^3.2.0
   webview_flutter: ^4.4.4
+  carousel_slider: ^4.2.1
 
 dev_dependencies:
   flutter_test:
